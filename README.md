@@ -11,4 +11,4 @@ Axios
 Moment
 DotEnv
 
-Video link for how it works: <iframe width="560" height="315" src="https://www.youtube.com/embed/mmMAWVIghf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video link for how it works: 
