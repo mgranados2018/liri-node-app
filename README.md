@@ -11,4 +11,4 @@ Axios
 Moment
 DotEnv
 
-Video link for how it works: https://www.files-conversion.com/file-convert/result/rec_12_16_18_001.mp4
+Video link for how it works: https://youtu.be/mmMAWVIghf0
